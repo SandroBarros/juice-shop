@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: ${{ matriz. }}
+    runs-on: ${{ matrix. }}
 
     strategy:
       matrix:
